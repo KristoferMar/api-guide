@@ -1,4 +1,4 @@
-# api-guide
+# API-Guide
 
 ### API Call back endpoint
 A callback URL will be invoked by the API method you're calling after it's done. So if you call
